@@ -1,0 +1,7 @@
+{
+  "name": "tourapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
